@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rashid",
+      "email": "rashidshaik354@gmail.com",
+      "phone": "8374339100"
+    },
+    {
+      "id": 2,
+      "name": "Bindu",
+      "email": "bindu2003@gmail.com",
+      "phone": "8500166611"
+    },
+    {
+      "id": 3,
+      "name": "Ninja Nithin",
+      "email": "ninja@gmail.com",
+      "phone": "9390774841"
+    },
+    {
+      "id": 5,
+      "name": "Sasank",
+      "email": "sasank@gmail.com",
+      "phone": "6281706631"
+    },
+    {
+      "name": "Amrutha",
+      "email": "amrutha@gmail.com",
+      "phone": "8639163753",
+      "id": 6
+    },
+    {
+      "name": "Keera",
+      "email": "keera@gmail.com",
+      "phone": "7981586626",
+      "id": 7
+    },
+    {
+      "name": "Charan",
+      "email": "charan@gmail.com",
+      "phone": "8341793529",
+      "id": 8
+    }
+  ]
+}
